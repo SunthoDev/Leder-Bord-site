@@ -17,10 +17,16 @@
         flex-direction: column;
     }
     .company .all_item {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
     .feature .items {
         flex-direction: column-reverse;
+    }
+
+
+
+    #hide{
+        display: none;
     }
 
 
