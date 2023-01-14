@@ -1,0 +1,135 @@
+
+
+
+@media (max-width:576px) {
+   
+    
+    .banner {
+        flex-direction: column-reverse;
+    }
+    main .all_item {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    main .all_item .item {
+        margin: 0 auto;
+    }
+    .feature .items {
+        flex-direction: column;
+    }
+    .company .all_item {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .feature .items {
+        flex-direction: column-reverse;
+    }
+
+
+
+
+
+.hide{
+    display: block;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
